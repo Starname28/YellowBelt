@@ -1,0 +1,12 @@
+D:\WorkSpaceForBohdan\FirstAppOnCppForAndroid\ARM\Debug\FirstAppOnCppForAndroid.androidprojAssemblyReference.cache
+D:\WorkSpaceForBohdan\FirstAppOnCppForAndroid\ARM\Debug\FirstAppOnCppForAndroid.apk.recipe
+D:\WorkSpaceForBohdan\FirstAppOnCppForAndroid\ARM\Debug\FirstAppOnCppForAndroid.apk.recipe.merged
+D:\WorkSpaceForBohdan\FirstAppOnCppForAndroid\ARM\Debug\Package\libs\armeabi-v7a\gdbserver
+D:\WorkSpaceForBohdan\FirstAppOnCppForAndroid\ARM\Debug\Package\res\values\strings.xml
+D:\WorkSpaceForBohdan\FirstAppOnCppForAndroid\ARM\Debug\Package\src\com\FirstAppOnCppForAndroid\FirstAppOnCppForAndroid.java
+D:\WorkSpaceForBohdan\FirstAppOnCppForAndroid\ARM\Debug\Package\AndroidManifest.xml
+D:\WorkSpaceForBohdan\FirstAppOnCppForAndroid\ARM\Debug\Package\project.properties
+D:\WorkSpaceForBohdan\FirstAppOnCppForAndroid\ARM\Debug\Package\build.xml
+D:\WorkSpaceForBohdan\FirstAppOnCppForAndroid\ARM\Debug\FileStringReplace.incremental
+D:\WorkSpaceForBohdan\FirstAppOnCppForAndroid\ARM\Debug\FirstAppOnCppForAndroid.apk
+D:\WorkSpaceForBohdan\FirstAppOnCppForAndroid\ARM\Debug\FirstAppOnCppForAndroid.lastsuccessfuldeploy
